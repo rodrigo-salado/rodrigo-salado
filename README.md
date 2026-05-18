@@ -28,4 +28,6 @@ Currently working on GPU-accelerated CFD solvers at UPM, focusing on numerical m
 
 Always interested in mathematically grounded engineering and computational problems.
 
+This GitHub mainly contains personal projects, experiments, and independent research interests in stochastic modelling, numerical methods, and machine learning.
+
 
