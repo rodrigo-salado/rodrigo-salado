@@ -34,19 +34,6 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-# 📊 GitHub Analytics:
-<!-- GitHub Stats -->
-![](https://github-readme-stats.vercel.app/api?username=rodrigo-salado&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff)
-
-<!-- Streak Stats -->
-![](https://github-readme-streak-stats.herokuapp.com/?user=rodrigo-salado&theme=dark&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff)
-
-<!-- Most Used Languages -->
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigo-salado&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
-
-<!-- Activity Graph -->
-[![Rodrigo's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rodrigo-salado&theme=github-dark&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=c9d1d9&hide_border=true&area=true&area_color=58a6ff)](https://github.com/rodrigo-salado)
-
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
@@ -54,4 +41,4 @@
 ---
 *Last updated: May 2026*
 
-⭐ *Production code. Verified convergence. No fluff.*
+⭐ *Personal projects. Verified convergence. No fluff.*
