@@ -2,7 +2,7 @@
 
 Aerospace engineering and mathematics student at UPM/UNED interested in scientific computing, stochastic modelling, Bayesian inference, and high-performance numerical methods.
 
-Currently working on GPU-accelerated CFD solvers at UPM, focusing on numerical methods, parallel algorithms, and verification frameworks for large-scale simulations.
+Main account: @Rodrigoansf — scientific computing & HPC work, including contributions to HORSES3D (high-order DG CFD solver): currently working on numerical solvers, time integrators, and GPU porting.
 
 ## Interests
 
