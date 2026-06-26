@@ -2,7 +2,7 @@
 
 Aerospace engineering and mathematics student at UPM/UNED interested in scientific computing, stochastic modelling, Bayesian inference, and high-performance numerical methods.
 
-Main account: @Rodrigoansf — scientific computing & HPC work, including contributions to HORSES3D (high-order DG CFD solver): currently working on numerical solvers, time integrators, and GPU porting.
+Main account: [@Rodrigoansf](https://github.com/Rodrigoansf) — scientific computing & HPC work, including contributions to HORSES3D (high-order DG CFD solver): currently working on numerical solvers, time integrators, and GPU porting.
 
 ## Interests
 
